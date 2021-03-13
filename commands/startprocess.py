@@ -29,3 +29,4 @@ def startsetup(project, icon, image):
     create(project)
 
 
+startsetup(sys.argv, sys.argv, sys.agrv)
